@@ -1,2 +1,2 @@
 # zycode667.github.io
-My Blog
+一个普通人的个人博客
